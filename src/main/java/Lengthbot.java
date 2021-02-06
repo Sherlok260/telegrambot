@@ -13,7 +13,7 @@ public class Lengthbot extends TelegramLongPollingBot {
     final String GET_SQUARE_COMMAND = "/get_square";
 
     public String getBotUsername() {
-        return "length_bot";
+        return "length_bot";  // comment
     }
 
     public String getBotToken() {
